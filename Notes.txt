@@ -69,7 +69,7 @@ Note: It creates 2 files:
 
 ****************** cc_library_stared ************************
 Android.bp template
-cc_library_static {
+cc_library_stared {
  name: "daemon1",
  srcs: ["nativeDeamonDemo1.cpp"],
 }
