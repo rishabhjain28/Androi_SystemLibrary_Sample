@@ -1,0 +1,4 @@
+cc_library_shared {
+ name: "daemon1",
+ srcs: ["nativeDeamonDemo1.cpp"],
+}

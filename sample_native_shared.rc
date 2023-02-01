@@ -1,0 +1,2 @@
+service sample_native_shared /system/bin/daemon1
+    class main
